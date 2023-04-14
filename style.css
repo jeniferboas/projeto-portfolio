@@ -19,7 +19,7 @@
    
 }
 body{
-    background:var(--corroxa) url('/imagem/pexels-juan-sauras-2737656.jpg') no-repeat fixed;
+    background:var(--corroxa) url('imagem/pexels-juan-sauras-2737656.jpg') no-repeat fixed;
     background-size:cover ;
     text-align: left; 
     min-width: 300px;
