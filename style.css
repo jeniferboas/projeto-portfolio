@@ -99,7 +99,8 @@ div.container1{
 .menu {
   position: relative;
   background: var(--coraver);
-  width: 3em;
+  min-width: 50px;
+  max-width: 30px;
   height: 3em;
   border-radius: 5em;
   margin-left: 15%;
