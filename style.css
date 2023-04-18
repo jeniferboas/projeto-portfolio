@@ -73,6 +73,8 @@ header p > a:hover{
   height: 20px;
   margin: 30px;
   margin-top: 15px;
+  transition: .5s;
+  
 }
 div img {
   background-color: var(--corroxa);
@@ -99,7 +101,7 @@ div.container1{
 .menu {
   position: relative;
   background: var(--coraver);
-  min-width: 50px;
+  max-height: 50px;
   max-width: 50px;
   height: 3em;
   border-radius: 5em;
