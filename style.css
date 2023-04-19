@@ -76,7 +76,7 @@ header p > a:hover{
   transition: .5s;
   
 }
-div img {
+.eu {
   background-color: var(--corroxa);
   display:block;
   width: 35%;
@@ -214,6 +214,11 @@ section{
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   
+}
+.sakura {
+  text-align: center;
+  display: flex;
+  background-color: black;
 }
  main{
   margin-top: 50%;
