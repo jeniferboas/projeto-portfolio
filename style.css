@@ -104,7 +104,7 @@ div.container1{
   max-width: 50px;
   height: 3em;
   border-radius: 5em;
-  margin-left: 15%;
+  margin-left:10%;
   margin-top: -15%;
   margin-bottom: 5em;
   cursor: pointer;
@@ -207,6 +207,7 @@ div.container1{
   left: -1.2em;
   top: 5em;
 }
+
 section{
   background-color: black;
   padding:1%;
